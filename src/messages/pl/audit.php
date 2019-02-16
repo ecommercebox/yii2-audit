@@ -29,7 +29,7 @@ return [
     'Called' => 'Wywołanie',
     'Created' => 'Data dodania',
     'Data' => '',
-    'Database Trails' => '',
+    'Database Trails' => 'Zmiany bazy danych',
     'Diff' => 'Różnica',
     'Difference' => 'Różnica',
     'Download' => 'Pobierz',
